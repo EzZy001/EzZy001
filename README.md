@@ -12,6 +12,6 @@
     <a href="https://github.com/EzZy001"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzZy001&theme=dark&layout=compact&langs_count=6&bg_color=101010&hide_title=true"></a>
 </p>
 <br>
-<p align="center">
+<div align="center">
     <img id="streak" href="https://github-readme-streak-stats.herokuapp.com/?user=EzZy001">
-</p>
+</div>
