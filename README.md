@@ -1,9 +1,7 @@
 <p align="center">
     <h1 align="center">✩&emsp;EzZy&emsp;✩</h1>
 </p>
-<p align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50](https://readme-typing-svg.herokuapp.com/demo/?size=21&duration=3000&color=2DF70D&center=true&lines=Welcome+to+my+profile;wassup)">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2DF70D&center=true&width=435&lines=Welcome+to+my+profile;LUA+solutions;React+solutions;PHP+solutions" alt="Typing SVG" /></a>
 <br>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=EzZy001&color=brightgreen">
