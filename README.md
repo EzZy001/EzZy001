@@ -2,7 +2,7 @@
     <h1 align="center">✩&emsp;EzZy&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?size=21&duration=3000&color=2DF70D&center=true&vCenter=true&lines=Welcome+to+my+profile;wassup">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?    font=Fira+Code&size=21&duration=3000&pause=1000&color=2DF70D&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;wassup" alt="Typing SVG" /></a>
 </p>
 <br>
 <p align="center">
