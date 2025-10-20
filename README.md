@@ -13,5 +13,5 @@
 </p>
 <br>
 <div align="center">
-    <img id="streak" href="https://github-readme-streak-stats.herokuapp.com/?user=EzZy001">
+    <img id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EzZy001">
 </div>
